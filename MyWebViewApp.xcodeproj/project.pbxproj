@@ -223,11 +223,13 @@
 				TargetAttributes = {
 					D70D034E1B8B79340041D63F = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = M684FYCYG6;
 						LastSwiftMigration = 1020;
 						TestTargetID = D74873521B849E110095E42F;
 					};
 					D74873521B849E110095E42F = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = M684FYCYG6;
 						LastSwiftMigration = 1020;
 					};
 				};
@@ -343,6 +345,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = M684FYCYG6;
 				INFOPLIST_FILE = MyWebViewAppTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -357,6 +360,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = M684FYCYG6;
 				INFOPLIST_FILE = MyWebViewAppTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -476,6 +480,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = M684FYCYG6;
 				INFOPLIST_FILE = MyWebViewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.oopers.MyWebViewApp;
@@ -489,6 +494,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = M684FYCYG6;
 				INFOPLIST_FILE = MyWebViewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.oopers.MyWebViewApp;
